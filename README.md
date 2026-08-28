@@ -27,27 +27,27 @@
 
 ## Selected work
 
-### [Creation Intent Gate](https://github.com/kellanxu/creation-intent-gate)
+### [Creation Intent Gate](https://github.com/kexu818/creation-intent-gate)
 
 A Codex skill that uses Mission, Vision, Values, and reality checks to improve the intention behind durable things before building begins.
 
-### [Recording Agent Starter](https://github.com/kellanxu/recording-agent-starter)
+### [Recording Agent Starter](https://github.com/kexu818/recording-agent-starter)
 
 A local-first starter that turns Feishu recordings into traceable, correctable Markdown context. Currently available as a pre-release for testing.
 
-### [LightMD](https://github.com/kellanxu/light-md-reader)
+### [LightMD](https://github.com/kexu818/light-md-reader)
 
 A lightweight native macOS reader for AI-generated Markdown files, designed for fast reading with local-first boundaries.
 
-### [Clash AI Router](https://github.com/kellanxu/clash-ai-router)
+### [Clash AI Router](https://github.com/kexu818/clash-ai-router)
 
 A privacy-conscious routing utility that keeps AI services on stable Clash Verge Rev routes with automatic failover and a manual fallback.
 
 ## More experiments
 
-- [Guided Article Interview Skill](https://github.com/kellanxu/guided-article-interview-skill) — interview-led Chinese long-form writing that preserves the author's voice.
-- [Shoulder Relax](https://github.com/kellanxu/shoulder-relax-codex) — a camera-guided shoulder and neck relaxation experiment for desk workers.
-- [Investment Livestream Notes](https://github.com/kellanxu/investment-livestream-notes) — a structured pipeline from investment livestream audio to auditable Obsidian notes.
+- [Guided Article Interview Skill](https://github.com/kexu818/guided-article-interview-skill) — interview-led Chinese long-form writing that preserves the author's voice.
+- [Shoulder Relax](https://github.com/kexu818/shoulder-relax-codex) — a camera-guided shoulder and neck relaxation experiment for desk workers.
+- [Investment Livestream Notes](https://github.com/kexu818/investment-livestream-notes) — a structured pipeline from investment livestream audio to auditable Obsidian notes.
 
 ## Now
 
@@ -72,4 +72,4 @@ Exploring human-owned Context infrastructure and practical tools for high-speed 
 
 ## Connect
 
-[Email](mailto:kenbot818@gmail.com) · [Repositories](https://github.com/kellanxu?tab=repositories)
+[Email](mailto:kenbot818@gmail.com) · [Repositories](https://github.com/kexu818?tab=repositories)
