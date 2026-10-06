@@ -9,7 +9,7 @@
 <p align="center">
   I build local-first, auditable AI tools that turn intent, recordings, and workflows into durable context.
   <br>
-  正在构建 AI-native 工具、Codex Skills 与个人 Context 基础设施。
+  正在构建 AI-native 工具、适用于企业的AGNET系统。
 </p>
 
 <p align="center">
