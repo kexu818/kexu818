@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm KE 👋</h1>
 
 <p align="center">
-  I build local-first, auditable AI tools that turn intent, recordings, and workflows into durable context.
+
   <br>
   正在构建 AI-native 工具、适用于企业的AGNET系统。
 </p>
